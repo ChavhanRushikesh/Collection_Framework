@@ -1,2 +1,2 @@
 # Collection_Framework
-Program and assignments for Logic Building batch - Java
+Programs and assignments for Logic Building
