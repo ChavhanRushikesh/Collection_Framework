@@ -22,6 +22,5 @@ class Program9
             System.out.println(eobj.nextElement());
             System.out.println(hobj.get(eobj.nextElement()));
         }
-        
     }
 }
