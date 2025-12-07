@@ -31,6 +31,6 @@ class Program5
         {
             System.out.println(iobj.next());
         }
-      
+        vobj.clear();
     }
 }
